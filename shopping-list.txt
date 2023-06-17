@@ -1,0 +1,7 @@
+const myList = [
+  ["fgtkmcby", 2],
+  ["vfylfhby", 3],
+  ["htlbcrf", 4],
+  ["vfkbyf", 5],
+  ["fdjrflj", 6]
+];
